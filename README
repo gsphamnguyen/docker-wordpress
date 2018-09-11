@@ -1,0 +1,8 @@
+#Docker compose
+docker version: 3
+#Wordpress
+wp: 4.9.8
+#DB
+mysql
+#phpmyadmin image
+phpmyadmin
